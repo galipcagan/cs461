@@ -1,5 +1,5 @@
 // CMPSC 461 Project 1
-// Galip Cagan
+// Galip
 public class Token {
     public enum TokenType {INT, FLOAT, ID, KEYWORD, COMMA, OPERATOR, EOI, INVALID} //tokens for the lexer
 

@@ -1,5 +1,5 @@
 // CMPSC 461 Project 1
-// Galip Cagan
+// Galip
 public class Test {
     public static void main (String args[]) {
 

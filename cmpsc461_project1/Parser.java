@@ -1,5 +1,5 @@
 // CMPSC 461 Project 1
-// Galip Cagan
+// Galip
 class Parser {
 
     Lexer lexer;

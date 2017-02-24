@@ -1,5 +1,5 @@
 // CMPSC 461 Project 1
-// Galip Cagan
+// Galip 
 class Lexer{
     private final String letters = "abcdefghijklmnopqrstuvmxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private final String digits = "0123456789";    //helpin to identify digits and letters
